@@ -8,9 +8,6 @@ A simple calculator app built with Android Studio, designed to perform basic ari
 - Responsive and user-friendly UI
 - Works on both portrait and landscape modes
 
-## Screenshots
-*(Add your app screenshots here)*
-
 ## Installation
 1. Clone the repository:
    ```bash
